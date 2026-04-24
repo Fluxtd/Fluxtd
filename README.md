@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">🐅 Fluxtd</h1>
 
-<!--
-**Fluxtd/Fluxtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=cs" alt="C# pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=py" alt="python pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=java" alt="java pic" height="40" />
+	<img width="12" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=git" alt="java pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=mysql" alt="mysql pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite pic" height="40" />
+</div>
+
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=vscode" alt="vscode pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm pic" height="40" />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=idea" alt="intellijidea pic" height="40" />
+</div>
+
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=windows" alt="windows pic" height="40" />
+	<img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu pic" height="40" />
+</div>
+
+###
